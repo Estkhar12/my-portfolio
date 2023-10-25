@@ -57,7 +57,7 @@ const Sidebar = () => {
                             <p className="contact-title">Email</p>
 
                             <a
-                                href="mailto:afzalimam09@gmail.com"
+                                href="mailto:estkharansari123@gmail.com"
                                 className="contact-link"
                             >
                                 estkharansari123@gmail.com
@@ -74,7 +74,7 @@ const Sidebar = () => {
                             <p className="contact-title">Phone</p>
 
                             <a
-                                href="tel:+916206864101"
+                                href="tel:+916202760547"
                                 className="contact-link"
                             >
                                 +91 6202760547
@@ -100,7 +100,7 @@ const Sidebar = () => {
                 <ul className="social-list">
                     <li className="social-item">
                         <a
-                            href="https://github.com/afzalimam09"
+                            href="https://github.com/Estkhar12"
                             className="social-link"
                         >
                             <BsGithub />
@@ -109,7 +109,7 @@ const Sidebar = () => {
 
                     <li className="social-item">
                         <a
-                            href="https://github.com/Estkhar12"
+                            href="https://www.linkedin.com/in/estkhar-ansari/"
                             className="social-link"
                         >
                             <BsLinkedin />
