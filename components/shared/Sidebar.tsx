@@ -31,7 +31,7 @@ const Sidebar = () => {
                         Estkhar Ansari
                     </h1>
 
-                    <p className="title">FullStack developer</p>
+                    <p className="title">Full Stack developer</p>
                 </div>
 
                 <button
